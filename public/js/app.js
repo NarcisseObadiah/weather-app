@@ -1,6 +1,6 @@
 
 
- console.log('Client side page loaded')
+
 
 
  const weatherForm = document.querySelector('form')
